@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redux-hw-06-phonebook/static/css/main.1ab6728a.chunk.css",
+    "main.js": "/redux-hw-06-phonebook/static/js/main.05539b5b.chunk.js",
+    "main.js.map": "/redux-hw-06-phonebook/static/js/main.05539b5b.chunk.js.map",
+    "runtime-main.js": "/redux-hw-06-phonebook/static/js/runtime-main.f42aa625.js",
+    "runtime-main.js.map": "/redux-hw-06-phonebook/static/js/runtime-main.f42aa625.js.map",
+    "static/js/2.8a8e856f.chunk.js": "/redux-hw-06-phonebook/static/js/2.8a8e856f.chunk.js",
+    "static/js/2.8a8e856f.chunk.js.map": "/redux-hw-06-phonebook/static/js/2.8a8e856f.chunk.js.map",
+    "index.html": "/redux-hw-06-phonebook/index.html",
+    "static/css/main.1ab6728a.chunk.css.map": "/redux-hw-06-phonebook/static/css/main.1ab6728a.chunk.css.map",
+    "static/js/2.8a8e856f.chunk.js.LICENSE.txt": "/redux-hw-06-phonebook/static/js/2.8a8e856f.chunk.js.LICENSE.txt",
+    "static/media/add.ad037bb3.svg": "/redux-hw-06-phonebook/static/media/add.ad037bb3.svg",
+    "static/media/close.3edff3ee.svg": "/redux-hw-06-phonebook/static/media/close.3edff3ee.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f42aa625.js",
+    "static/js/2.8a8e856f.chunk.js",
+    "static/css/main.1ab6728a.chunk.css",
+    "static/js/main.05539b5b.chunk.js"
+  ]
+}
